@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\Menjacnica\Menjacnica\bin\Debug\Menjacnica.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Menjacnica\Menjacnica\bin\Debug\Menjacnica.exe
+c:\users\admin\documents\visual studio 2015\Projects\Menjacnica\Menjacnica\bin\Debug\Menjacnica.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Menjacnica\Menjacnica\obj\Debug\Menjacnica.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Menjacnica\Menjacnica\obj\Debug\Menjacnica.exe
+c:\users\admin\documents\visual studio 2015\Projects\Menjacnica\Menjacnica\obj\Debug\Menjacnica.pdb
